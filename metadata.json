@@ -1,0 +1,27 @@
+{
+  "name": "AhnJaeHo",
+  "description": "BASEBALLFLAG",
+  "image": "https://이미지 경로",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "grass"
+    },
+    {
+      "trait_type": "BACKGROUNDDECORATION",
+      "value": "baseball"
+    },
+    {
+      "trait_type": "BACKGROUNDCOLOR",
+      "value": "#416f39"
+    },
+    {
+      "trait_type": "FLAG",
+      "value": "SSGLANDERS"
+    },
+    {
+      "trait_type": "FLAGCOLOR",
+      "value": "#ad2f30"
+    }
+  ]
+}
